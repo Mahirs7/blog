@@ -1,9 +1,10 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Mahir\'s Blog',
+  title: "Mahir's Blog",
   author: 'Mahir Sabharwal',
-  headerTitle: 'Mahir\'s Blog',
-  description: 'My thoughts',
+  headerTitle: "Mahir's Blog",
+  description:
+    "My thoughts on various fields of Computer Science, my projects, my experience at university and everything I'm passionate about.",
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
