@@ -7,20 +7,22 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
+    title: 'StreetByte',
+    description: `A mobile app that allows students on university campus towns to locate food trucks in real time `,
     imgSrc: '/static/images/google.png',
     href: 'https://www.google.com',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'MassProd',
+    description: `A SaaS product for TV production companies to efficiently manage projects, organize tasks, and facilitate internal and external communication`,
+    imgSrc: '/static/images/google.png',
+    href: 'https://www.google.com',
+  },
+  {
+    title: 'MassProd',
+    description: `A SaaS product for TV production companies to efficiently manage projects, organize tasks, and facilitate internal and external communication`,
+    imgSrc: '/static/images/google.png',
+    href: 'https://www.google.com',
   },
 ]
 

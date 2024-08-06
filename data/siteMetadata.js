@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: "Mahir's Blog",
+  title: 'Mahir Sabharwal',
   author: 'Mahir Sabharwal',
-  headerTitle: "Mahir's Blog",
+  headerTitle: 'Mahir Sabharwal',
   description:
     "My thoughts on various fields of Computer Science, my projects, my experience at university and everything I'm passionate about.",
   language: 'en-us',
@@ -27,7 +27,7 @@ const siteMetadata = {
     // supports Plausible, Simple Analytics, Umami, Posthog or Google Analytics.
     umamiAnalytics: {
       // We use an env variable for this site to avoid other users cloning our analytics ID
-      umamiWebsiteId: process.env.NEXT_UMAMI_ID, // e.g. 123e4567-e89b-12d3-a456-426614174000
+      umamiWebsiteId: process.env.NEXT_UNAMI_ID, // e.g. 123e4567-e89b-12d3-a456-426614174000
     },
     // plausibleAnalytics: {
     //   plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
