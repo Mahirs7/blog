@@ -4,7 +4,7 @@ const siteMetadata = {
   author: 'Mahir Sabharwal',
   headerTitle: 'Mahir Sabharwal',
   description:
-    "My thoughts on various fields of Computer Science, my projects, my experience at university and everything I'm passionate about.",
+    "I'm a software engineer with a passion for building impactful products and solving problems.",
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
