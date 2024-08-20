@@ -21,10 +21,12 @@ const TypedBios = () => {
     <div>
       <ul id="bios" className="hidden">
         <li>
-          I'm a software engineer with a passion for building impactful products and solving problems.
+          I'm a software engineer with a passion for building impactful products and solving
+          problems.
         </li>
         <li>
-          I'm a software engineer with a passion for building impactful products and solving problems.
+          I'm a software engineer with a passion for building impactful products and solving
+          problems.
         </li>
         {/* <li>
           I was born in the beautiful <b className="font-medium">Quang Ngai</b> city.
