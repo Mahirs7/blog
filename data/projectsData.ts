@@ -10,7 +10,7 @@ const projectsData: Project[] = [
     title: 'StreetByte',
     description: `A mobile app that allows students on university campus towns to locate food trucks in real time`,
     imgSrc: '/static/images/google.png',
-    href: 'https://mahirsabharwal.vercel.app/blog/streetbyte',
+    href: 'https://mahirsabharwal.vercel.app/blog/streetbytes',
   },
   {
     title: 'MassProd',
